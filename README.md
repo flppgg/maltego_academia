@@ -11,7 +11,7 @@ In my mind, this should avoid you getting lost in loads of tabs, programs, and w
 The idea is to harness Maltego's excellent platform to create graphs that can guide you in your research. 
 
 
-Please let me know what you think, post your comments and questions, and if you would like to contribute that would be awsome!
+Please let me know what you think, post your comments and questions, and if you would like to contribute that would be awsome! All of the trasforms are built using the TRX Python framework by Paterva.
 
 
 
