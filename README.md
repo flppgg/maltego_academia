@@ -13,3 +13,20 @@ The idea is to harness Maltego's excellent platform to create graphs that can gu
 
 Please let me know what you think, post your comments and questions, and if you would like to contribute that would be awsome!
 
+
+
+
+
+
+
+
+Mainly I use public free APIs to run trasforms. By combining several services, the Maltego_Academia starts becoming quite versatile and powerful. Here is an up to date list of all the APIs used:
+
+-Crossref
+-Mendeley Reference Manager
+-Google Scholar
+-BASE Bielefeld Academic Search Engine
+-Dimensions
+-Cermine PDF Content Extractor and Miner
+-Libgen Library Genesis
+
