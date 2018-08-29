@@ -2,7 +2,9 @@
 
 #### Python transforms for exploring published papers and books
 
+
 This is a set of transforms I have developed for exploring the academic literature. There is still quite some work to do, as of now it is still a beta version.
+
 
 I am uploading it here to hopefully get some community interest, both from Maltego's community as from the academic research / data analysis community.
 
