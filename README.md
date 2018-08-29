@@ -1,4 +1,6 @@
-# maltego_academia
+# Maltego_Academia
+
+#### Python transforms for exploring published papers and books
 
 This is a set of transforms I have developed for exploring the academic literature. There is still quite some work to do, as of now it is still a beta version.
 
@@ -11,7 +13,9 @@ In my mind, this should avoid you getting lost in loads of tabs, programs, and w
 The idea is to harness Maltego's excellent platform to create graphs that can guide you in your research. 
 
 
-Please let me know what you think, post your comments and questions, and if you would like to contribute that would be awsome! All of the trasforms are built using the TRX Python framework by Paterva.
+Please let me know what you think, post your comments and questions, and if you would like to contribute that would be awsome! 
+
+All of the trasforms are built using the TRX Python framework by Paterva. You can try them by adding this seed URL in the Transform Hub panel in Maltego.
 
 
 
@@ -22,17 +26,11 @@ Please let me know what you think, post your comments and questions, and if you 
 
 Mainly I use public free APIs to run trasforms. By combining several services, the Maltego_Academia starts becoming quite versatile and powerful. Here is an up to date list of all the APIs used:
 
-Crossref.
-
-Mendeley Reference Manager.
-
-Google Scholar.
-
-BASE Bielefeld Academic Search Engine.
-
-Dimensions.
-
-Cermine PDF Content Extractor and Miner.
-
-Libgen Library Genesis.
+- [Crossref](https://www.crossref.org/)
+- [Mendeley Reference Manager](https://www.mendeley.com/)
+- [Google Scholar](https://scholar.google.com/), through the [Scholarly](https://pypi.org/project/scholarly/) Python module
+- [BASE Bielefeld Academic Search Engine](https://www.base-search.net/about/en/)
+- [Dimensions](https://www.dimensions.ai/)
+- [Cermine PDF Content Extractor and Miner](http://cermine.ceon.pl/index.html)
+- [Libgen Library Genesis](http://libgen.io)
 
