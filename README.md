@@ -8,7 +8,7 @@ This is a set of transforms I have developed for exploring the academic literatu
 
 I am uploading it here to hopefully get some community interest, both from Maltego's community as from the academic research / data analysis community.
 
-When completed, these transforms should allow you to explore a given academic field by graphically navigating through papers, authors (the two Maltego entities I have introduced), finding new papers published by the same author, or that share the same keywords, or that have been referenced by that paper. It will allow you to run a machine that follows a given author and notifies you when they've published a new paper, and automatically adds a new paper (node) to the graph. It eventually allow you to download the PDF and open it in your preferred program WITHOUT EVER LEAVING THE MALTEGO'S PLATFORM. 
+When completed, these transforms should allow you to explore a given academic field by graphically navigating through papers, authors (the two Maltego entities I have introduced), finding new papers published by the same author, or that share the same keywords, or that have been referenced by that paper. It will allow you to run a machine that follows a given author and notifies you when they've published a new paper, and automatically adds a new paper (node) to the graph. It eventually allow you to download the PDF and open it in your preferred program without ever leaving Maltego's platform.
 
 In my mind, this should avoid you getting lost in loads of tabs, programs, and websites when you are doing research. It will help researchers being organised and focused on what exactly they are looking for, and what they know so far, by mapping it on a graph.
 
